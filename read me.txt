@@ -1,0 +1,1 @@
+this app access a game called cookie clicker using an API and plays the game for you.
